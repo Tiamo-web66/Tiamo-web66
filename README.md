@@ -30,7 +30,6 @@ Hi, I'm Tiamo 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an ope
 - 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
 - 💼 I’m pursuing a Ph.D. degree or R.A. position.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
