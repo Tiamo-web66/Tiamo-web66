@@ -25,8 +25,8 @@ Hi, I'm Tiamo 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an ope
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
-- 🌱 I’m currently learning TypeScripts and Python.
+- 👨🏻‍💻 I’m currently working on Low code.
+- 🌱 I’m currently learning React , TypeScripts and Python.
 - 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
 - 💼 I’m pursuing a Ph.D. degree or R.A. position.
 - 💬 Ask me about anything, I would like to answer.
