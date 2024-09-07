@@ -28,7 +28,7 @@ Hi, I'm Tiamo 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an ope
 - 👨🏻‍💻 I’m currently working on Low code.
 - 🌱 I’m currently learning React , TypeScripts and Python.
 - 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
-- 💼 I’m pursuing a Ph.D. degree or R.A. position.
+- 💼 I’m pursuing a Computer major.
 - 💬 Ask me about anything, I would like to answer.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
